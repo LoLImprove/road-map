@@ -10,6 +10,7 @@ LoL Improve road map
 - [x] App architecture design
 - [ ] Modules mountpoint system
 - [ ] Deploy solution with versionning
+- [ ] Deploy with SSL
 
 ### Replay analysis system
 
