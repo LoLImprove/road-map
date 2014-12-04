@@ -7,8 +7,8 @@ LoL Improve road map
 
 ### General
 
-- [x] App architecture design
-- [ ] Modules mountpoint system
+- [x] App architecture design (ember-addons)
+- [x] Modules mountpoint system
 - [ ] Deploy solution with versionning
 - [ ] Deploy with SSL
 
